@@ -10,7 +10,13 @@ class ClassName
 	{
 	}
 
-	public static function get() {
+	public static function get()
+	{
 		return true;
+	}
+
+	public static function set()
+	{
+		return false;
 	}
 }
