@@ -19,4 +19,9 @@ class ClassName
 	{
 		return false;
 	}
+
+	public static function some()
+	{
+		return true;
+	}
 }
